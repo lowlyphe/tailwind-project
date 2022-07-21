@@ -5,6 +5,7 @@ Mobile first web application using tailwind, mainly just to practice design conc
 To play with it yourself:
 
             git clone https://github.com/lowlyphe/tailwind-project.git
+            
             npm install
 
 Or view a live version at https://www.depressed-voice.surge.sh
